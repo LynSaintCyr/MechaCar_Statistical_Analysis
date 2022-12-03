@@ -17,3 +17,9 @@
  3.) Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
  
  Yes, the linear model predict mpg of MechaCar prototypes is effective because the r-squared is 0.7149 meaning that 71% of the variability observed is explained by the regression model.
+
+## Summary Statistics on Suspension Coils
+![total_summary](https://user-images.githubusercontent.com/107447648/205460842-99d9ef5c-d607-4220-9354-68bcb6d9efd9.png)
+![lot_summary](https://user-images.githubusercontent.com/107447648/205460853-c40f1f73-e233-4968-b4d0-45e003fd40f7.png)
+ 
+ total_summary variance meets the the specificatios but if we look at the lot_summary we will see that lot 1 and 2 also meets those specifications but 3 is over the requirements.
